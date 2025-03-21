@@ -21,4 +21,3 @@
 
 ### How it Works:
 - The source of the program's data is the file "cancelamentos_sample.csv". If you want to add your own Database, it must be in ".csv" format.
-"# Data-Analysis-Project---Cancellation" 
